@@ -10,12 +10,12 @@
 	"categories": ["themes"],
 	"license": "SEE LICENSE IN LICENSE.md",
     "bugs": {
-        "url": "https://github.com/NSHenry/theme-vibrantink/issues"
+        "url": "https://github.com/NSHenry/vscode-theme-vibrantink"
     },
-    "homepage": "https://github.com/NSHenry/theme-vibrationink/blob/master/README.md",
+    "homepage": "https://github.com/NSHenry/vscode-theme-vibrantink/blob/master/README.md",
     "repository": {
         "type": "git",
-        "url": "https://github.com/NSHenry/theme-vibrantink.git"
+        "url": "https://github.com/NSHenry/vscode-theme-vibrantink.git"
     },
 	"contributes": {
 		"themes": [
