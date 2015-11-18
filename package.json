@@ -1,0 +1,29 @@
+{
+	"name": "theme-vibrantink",
+	"version": "0.0.11",
+	"publisher": "NSHenry",
+	"engines": {
+		"vscode": ">=0.10.x"
+	},
+	"displayName": "Vibrant Ink Theme",
+    "description": "Vibrant Ink theme for VS Code based on the Textmate theme.",
+	"categories": ["themes"],
+	"license": "SEE LICENSE IN LICENSE.md",
+    "bugs": {
+        "url": "https://github.com/NSHenry/theme-vibrantink/issues"
+    },
+    "homepage": "https://github.com/NSHenry/theme-vibrationink/blob/master/README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/NSHenry/theme-vibrantink.git"
+    },
+	"contributes": {
+		"themes": [
+			{
+				"label": "Vibrant Ink",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Vibrant_Ink.tmTheme"
+			}
+		]
+	}
+}
